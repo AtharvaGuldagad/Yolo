@@ -1,3 +1,4 @@
+def check_status()
     if value > 10
         print("High value")
       else
